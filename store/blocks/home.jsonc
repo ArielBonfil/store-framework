@@ -10,11 +10,13 @@
 
 
   "flex-layout.row":{
+    
     "children": [
+      "flex-layout.col",
       "image#electronics",
       "image#major-appliance"
-    ]
-  },
+        ]
+},
 
   "image#electronics": {
     "props": {
