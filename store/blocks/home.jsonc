@@ -4,7 +4,8 @@
       "flex-layout.row",
       "image#electronics",
       "image#major-appliance",
-      "flex-layout.col"
+      "flex-layout.col",
+      "shelf"
     ]
   },
 
@@ -34,5 +35,15 @@
       "maxWidth": "100%"
     }
   }
+
+  "shelf":{
+    "blocks":["product-summary.shelf"],
+    "props":{
+      
+    }
+  }
+
+
+
 
 }
