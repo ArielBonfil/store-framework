@@ -31,7 +31,7 @@
     font-weight: bold;
 }
 .infoCardCallActionContainer:global(.vtex-button):hover{
-    background-color: white;
+  color: white;
 }
 .infoCardContainer--metal{
     background-color: #e1e1e1;
