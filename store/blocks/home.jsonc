@@ -5,7 +5,8 @@
       "image#electronics",
       "image#major-appliance",
       "flex-layout.col",
-      "shelf"
+      "shelf",
+      "slider-layout#home"
     ]
   },
 
