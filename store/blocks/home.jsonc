@@ -10,7 +10,8 @@
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile",
       "image#desktop",
-      "image#mobile"
+      "image#mobile",
+      "product-quantity"
     ]
   },
   "responsive-layout.desktop#desktop":{
