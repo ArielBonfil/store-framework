@@ -51,7 +51,7 @@
   },
   "sku-selector":{
     "props":{
-      "initialSelection": "complete",
+      "initialSelection": "empty",
       "showVariationLabels": true,
       "showVariationsErrorMessage": true	
     }
@@ -68,9 +68,9 @@
     ]
   },
   "product.brand":{
-    "props":{
-      "displayMode": "logo",
-      "height": 30
+    "props":{ 
+      "height": 30,
+      "displayMode": "logo"
 
     }
   }
